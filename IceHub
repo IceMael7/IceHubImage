@@ -1,3 +1,11 @@
 return {
-
+	BrookhavenImage = "http://www.roblox.com/asset/?id=",
+  RedCliffImage = "http://www.roblox.com/asset/?id=",
+  BerryAvenueImage = "http://www.roblox.com/asset/?id=",
+  BloxFruitImage = "http://www.roblox.com/asset/?id=",
+  AdoptMeImage = "http://www.roblox.com/asset/?id=",
+  SprayPaintImage = "http://www.roblox.com/asset/?id=",
+  PrisonLifeImage = "http://www.roblox.com/asset/?id=",
+  LivetopiaImage = "http://www.roblox.com/asset/?id=",
+  PublicBathroomImage = "http://www.roblox.com/asset/?id="
 }
