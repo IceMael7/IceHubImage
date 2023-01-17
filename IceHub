@@ -1,5 +1,5 @@
 return {
-	BrookhavenImage = "http://www.roblox.com/asset/?id=",
+  BrookhavenImage = "http://www.roblox.com/asset/?id=",
   RedCliffImage = "http://www.roblox.com/asset/?id=",
   BerryAvenueImage = "http://www.roblox.com/asset/?id=",
   BloxFruitImage = "http://www.roblox.com/asset/?id=",
