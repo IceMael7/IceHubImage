@@ -1,11 +1,11 @@
 return {
-  BrookhavenImage = "http://www.roblox.com/asset/?id=",
-  RedCliffImage = "http://www.roblox.com/asset/?id=",
-  BerryAvenueImage = "http://www.roblox.com/asset/?id=",
-  BloxFruitImage = "http://www.roblox.com/asset/?id=",
-  AdoptMeImage = "http://www.roblox.com/asset/?id=",
-  SprayPaintImage = "http://www.roblox.com/asset/?id=",
-  PrisonLifeImage = "http://www.roblox.com/asset/?id=",
-  LivetopiaImage = "http://www.roblox.com/asset/?id=",
-  PublicBathroomImage = "http://www.roblox.com/asset/?id="
+  BrookhavenImage = "http://www.roblox.com/asset/?id=12196553314",
+  RedCliffImage = "http://www.roblox.com/asset/?id=12196544317",
+  BerryAvenueImage = "http://www.roblox.com/asset/?id=12196561002",
+  BloxFruitImage = "http://www.roblox.com/asset/?id=12196541528",
+  AdoptMeImage = "http://www.roblox.com/asset/?id=12196540981",
+  SprayPaintImage = "http://www.roblox.com/asset/?id=12184154425",
+  PrisonLifeImage = "http://www.roblox.com/asset/?id=12184153030",
+  LivetopiaImage = "http://www.roblox.com/asset/?id=12184151088",
+  PublicBathroomImage = "http://www.roblox.com/asset/?id=12184152079"
 }
