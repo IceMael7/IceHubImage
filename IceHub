@@ -1,16 +1,16 @@
 return {
-  BrookhavenImage = "http://www.roblox.com/asset/?id=12214923224",
+  BrookhavenImage = "http://www.roblox.com/asset/?id=12649056808",
   RedCliffImage = "http://www.roblox.com/asset/?id=12196544279",
   BerryAvenueImage = "http://www.roblox.com/asset/?id=12196560958",
   BloxFruitImage = "http://www.roblox.com/asset/?id=12196541493",
   SprayPaintImage = "http://www.roblox.com/asset/?id=12184154391",
-  PrisonLifeImage = "https://tr.rbxcdn.com/a7ee1a817084225ff143107cce7e05b3/150/150/Image/Png",
+  PrisonLifeImage = "http://www.roblox.com/asset/?id=12649076645",
   LivetopiaImage = "http://www.roblox.com/asset/?id=12184151046",
   PublicBathroomImage = "http://www.roblox.com/asset/?id=12184152008",
   AdoptMeImage = "http://www.roblox.com/asset/?id=12337096516",
-  BeeSwarmImage = "http://www.roblox.com/asset/?id=",
-  NaturalDisasterImage = "http://www.roblox.com/asset/?id=",
-  MurderMysteryImage = "http://www.roblox.com/asset/?id=",
-  SuperHeroTycoonImage = "http://www.roblox.com/asset/?id=",
-  BeAParkourImage = "https://tr.rbxcdn.com/a7ee1a817084225ff143107cce7e05b3/150/150/Image/Png"
+  BeeSwarmImage = "http://www.roblox.com/asset/?id=12649077849",
+  NaturalDisasterImage = "http://www.roblox.com/asset/?id=12649055939",
+  MurderMysteryImage = "http://www.roblox.com/asset/?id=12649057500",
+  SuperHeroTycoonImage = "http://www.roblox.com/asset/?id=12649054285",
+  BeAParkourImage = "http://www.roblox.com/asset/?id=12649076645"
 }
