@@ -4,7 +4,7 @@ return {
   BerryAvenueImage = "http://www.roblox.com/asset/?id=12196560958",
   BloxFruitImage = "http://www.roblox.com/asset/?id=12196541493",
   SprayPaintImage = "http://www.roblox.com/asset/?id=12184154391",
-  PrisonLifeImage = "http://www.roblox.com/asset/?id=12184152987",
+  PrisonLifeImage = "https://tr.rbxcdn.com/a7ee1a817084225ff143107cce7e05b3/150/150/Image/Png",
   LivetopiaImage = "http://www.roblox.com/asset/?id=12184151046",
   PublicBathroomImage = "http://www.roblox.com/asset/?id=12184152008",
   AdoptMeImage = "http://www.roblox.com/asset/?id=12337096516",
