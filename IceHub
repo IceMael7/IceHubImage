@@ -12,5 +12,8 @@ return {
   NaturalDisasterImage = "http://www.roblox.com/asset/?id=12649055939",
   MurderMysteryImage = "http://www.roblox.com/asset/?id=12649057500",
   SuperHeroTycoonImage = "http://www.roblox.com/asset/?id=12649054285",
-  BeAParkourImage = "http://www.roblox.com/asset/?id=12649076645"
+  BeAParkourImage = "http://www.roblox.com/asset/?id=12649076645",
+  SimToLifeImage = "http://www.roblox.com/asset/?id=12649076645",
+  ZombieLabImage = "http://www.roblox.com/asset/?id=12649076645",
+  LegendOfSpeedImage = "http://www.roblox.com/asset/?id=12649076645"
 }
